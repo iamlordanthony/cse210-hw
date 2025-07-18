@@ -1,3 +1,21 @@
+// ---------------------------------------------------------------------------
+// Scripture Memorizer Program
+// Author: Lord Anthony Senanu
+// Date: 18th July 2025
+// Description: This program helps users memorize scripture by hiding words
+// from a verse or verses until the entire scripture is hidden.
+// 
+// Exceeding Requirements:
+// - Added support for loading a random scripture from a file containing
+//   multiple scriptures. Each time the program runs, a different scripture
+//   may be selected.
+// - Ensured that only words that are not already hidden are selected for
+//   hiding each round, making the hiding process more intelligent.
+// - Enhanced the display formatting to wrap lines nicely in the console
+//   for better readability.
+//
+// ---------------------------------------------------------------------------
+
 using System;
 
 class Program
