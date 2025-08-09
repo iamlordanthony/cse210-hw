@@ -1,0 +1,4 @@
+50
+SimpleGoal:Read scriptures|Read daily|10|True
+EternalGoal:Exercise|Daily workout|5|False
+ChecklistGoal:Temple visits|Go to temple|20|False|3|5|50
